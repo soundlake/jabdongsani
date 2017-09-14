@@ -60,8 +60,17 @@
 
 ## Resources
 
-* Air Race broadcast https://youtu.be/s-tBmLg4D84
-* Fox Sports https://youtu.be/2sehW6yr2ZE?t=15s
+---
+
+### Air Race Broadcast
+
+![Video](https://www.youtube.com/embed/s-tBmLg4D84)
+
+---
+
+### Fox Sports
+
+![Video](https://www.youtube.com/embed/2sehW6yr2ZE)
 
 ---
 
