@@ -1,4 +1,6 @@
-# Preface
+# Virtual & Augmented Reality
+
+![for Dummies](https://i1.wp.com/www.thegraphicmac.com/wp-content/uploads/res_dummies-font.png)
 
 ---
 
@@ -71,6 +73,12 @@
 ### Fox Sports
 
 ![Video](https://www.youtube.com/embed/2sehW6yr2ZE)
+
+---
+
+### Facebook Spaces
+
+![Video](https://www.youtube.com/embed/PVf3m7e7OKU)
 
 ---
 
