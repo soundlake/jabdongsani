@@ -1,4 +1,4 @@
-# Virtual & Augmented Reality
+# VR & AR
 
 ![for Dummies](https://i1.wp.com/www.thegraphicmac.com/wp-content/uploads/res_dummies-font.png)
 
@@ -8,11 +8,9 @@
 
 ---
 
-## I
-
-* Who am I?
-* Why am I?
-* What will I?
+* Software Engineer in [BeIP.be](https://www.beip.be)
+* Movie Lover
+* Travia Seeker
 
 ---
 
