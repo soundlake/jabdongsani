@@ -1,4 +1,4 @@
----?image=https://i1.wp.com/www.thegraphicmac.com/wp-content/uploads/res_dummies-font.png&size=auto 60%
+---?image=assets/images/for-dummies.svg&size=cover
 
 # Virtual & Augmented Reality
 
