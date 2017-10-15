@@ -1,4 +1,4 @@
----?image=assets/images/for-dummies.svg&size=cover
+---?image=assets/images/for-dummies.png&size=auto
 
 # Virtual & Augmented Reality
 
