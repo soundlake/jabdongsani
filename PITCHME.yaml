@@ -1,2 +1,3 @@
 transition: none
 theme : night
+theme-override : assets/style.css
