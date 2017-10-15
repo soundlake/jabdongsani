@@ -1,6 +1,6 @@
 ---?image=https://i1.wp.com/www.thegraphicmac.com/wp-content/uploads/res_dummies-font.png&size=auto 50%
 
-# Virtual / Augmented Reality
+# Virtual & Augmented Reality
 
 ---
 
