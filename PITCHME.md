@@ -10,23 +10,23 @@
 
 ## Speaker
 
-* Sinyeol An |
-* Software Engineer in [BeIP.be](https://www.beip.be) |
-* Movie Lover |
-* Travia Seeker |
+- Sinyeol An |
+- Software Engineer in [BeIP.be](https://www.beip.be) |
+- Movie Lover |
+- Travia Seeker |
 
 ---
 
 ## Virtual Reality
 
-* "Virtual" |
-* "Reality" |
+- "Virtual" |
+- "Reality" |
 
 ---
 
 ## Augmented Reality
 
-* "Augmented" |
+- "Augmented" |
 
 ---
 
@@ -34,18 +34,19 @@
 
 ---
 
-## Time Table
+## Brief History
 
-* Past
-* Present
-* Future
+- Past
+- Present
+- Future
 
 ---
 
 ## Resources
 
-* Matrix
-* Airplane Flight Simulation
+- The Matrix (1999)
+- Ghost in the Shell
+- Airplane Flight Simulation
 
 ---
 
@@ -53,11 +54,11 @@
 
 ---
 
-## Time Table
+## Brief History
 
-* Past
-* Present
-* Future
+- Past
+- Present
+- Future
 
 ---
 
@@ -87,8 +88,8 @@
 
 ---
 
-* [Wikipedia - Virtual_reality](https://en.wikipedia.org/wiki/Virtual_reality)
-* [Wikipedia - Augmented_reality](https://en.wikipedia.org/wiki/Augmented_reality)
+- [Wikipedia - Virtual_reality](https://en.wikipedia.org/wiki/Virtual_reality)
+- [Wikipedia - Augmented_reality](https://en.wikipedia.org/wiki/Augmented_reality)
 
 ---
 
