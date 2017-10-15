@@ -1,4 +1,4 @@
-# VR & AR
+# Virtual / Augmented Reality
 
 ![for Dummies](https://i1.wp.com/www.thegraphicmac.com/wp-content/uploads/res_dummies-font.png)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Speaker
+## Who am I?
 
 <ul>
   <li class="fragment">Sinyeol An</li>
@@ -65,6 +65,9 @@
 ---
 
 ## Resources
+
+- Dragon Ball
+- Iron Man
 
 ---
 
