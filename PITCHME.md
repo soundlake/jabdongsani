@@ -8,22 +8,25 @@
 
 ---
 
-* Software Engineer in [BeIP.be](https://www.beip.be)
-* Movie Lover
-* Travia Seeker
+## Speaker
+
+* Sinyeol An |
+* Software Engineer in [BeIP.be](https://www.beip.be) |
+* Movie Lover |
+* Travia Seeker |
 
 ---
 
 ## Virtual Reality
 
-* "Virtual"
-* "Reality"
+* "Virtual" |
+* "Reality" |
 
 ---
 
 ## Augmented Reality
 
-* "Augmented"
+* "Augmented" |
 
 ---
 
