@@ -4,27 +4,7 @@
 
 ---?include=contents/intro.md
 
----
-
-# Virtual Reality
-
----
-
-## Brief History
-
-- Past
-- Present
-- Future
-
----
-
-## Resources
-
-- The Matrix (1999)
-- Ghost in the Shell
-- Airplane Flight Simulation
-
----
+---?include=contents/vr.md
 
 # Augmented Reality
 
