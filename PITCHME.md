@@ -6,40 +6,7 @@
 
 ---?include=contents/vr.md
 
-# Augmented Reality
-
----
-
-## Brief History
-
-- Past
-- Present
-- Future
-
----
-
-## Resources
-
-- Dragon Ball
-- Iron Man
-
----
-
-### Air Race Broadcast
-
-![Video](https://www.youtube.com/embed/s-tBmLg4D84)
-
----
-
-### Fox Sports
-
-![Video](https://www.youtube.com/embed/2sehW6yr2ZE)
-
----
-
-### Facebook Spaces
-
-![Video](https://www.youtube.com/embed/PVf3m7e7OKU)
+---?include=contents/ar.md
 
 ---
 
