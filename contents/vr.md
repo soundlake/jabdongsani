@@ -28,7 +28,7 @@
     - Head Mounted Display
     - Ivan Sutherland & Bob Sproull
 
----?image=http://www.inventinginteractive.com/wp-content/uploads/2010/03/Aspen_armchair.jpg
+---?image=http://www.inventinginteractive.com/wp-content/uploads/2010/03/Aspen_armchair.jpg&size=contain
 
 ### 1970s
 
@@ -36,7 +36,7 @@
     - Building virtual copy of Aspen, Colorado
     - MIT
 
----?image=https://upload.wikimedia.org/wikipedia/commons/a/a8/VPL_DataSuit_1.jpg
+---?image=https://upload.wikimedia.org/wikipedia/commons/a/a8/VPL_DataSuit_1.jpg&size=contain
 
 ### 1980s
 
