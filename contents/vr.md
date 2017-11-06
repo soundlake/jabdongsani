@@ -12,9 +12,6 @@
     - goggle-based virtual reality system
     - holographic recording of fictional experiences
     - including smell and touch
-- The term was firstly used by Antonin Artaud, French avant-garde playwright in 1938
-    - 'illusion was not distinct from reality'
-    - 'spectators at a play should suspend disbelief and regard the drama on stage as reality'
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/d/dc/Sensorama-morton-heilig-virtual-reality-headset.jpg&size=contain
 
