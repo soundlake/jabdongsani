@@ -19,6 +19,7 @@
 
 - Sensorama
     - Morton Heilig
+    - visuals, sound, vibration, and smell
 
 ---
 
