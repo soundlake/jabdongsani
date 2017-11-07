@@ -13,13 +13,26 @@
 
 ---
 
-## Virtual Reality
+## About what?
 
-- "Virtual" |
-- "Reality" |
+- Virtual Reality |
+- Augmented Reality |
+- VR/AR in Stories |
+- Reality? |
+
+---
+
+## Virtual Reality
 
 ---
 
 ## Augmented Reality
 
-- "Augmented" |
+---
+
+## In Stories
+
+---
+
+## Reality
+
