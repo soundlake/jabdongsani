@@ -14,6 +14,10 @@
 
 ---
 
+---?include=contents/story.md
+
+---
+
 ---?include=contents/ref.md
 
 ---
