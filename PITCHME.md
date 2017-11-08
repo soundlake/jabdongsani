@@ -18,6 +18,10 @@
 
 ---
 
+---?include=contents/reality.md
+
+---
+
 ---?include=contents/ref.md
 
 ---
