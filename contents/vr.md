@@ -13,7 +13,7 @@
     - holographic recording of fictional experiences
     - including smell and touch
 
----?image=http://orig06.deviantart.net/4250/f/2009/293/e/8/steampunk_goggles_10_by_ambassadormann.jpg&size=contain
+---?image=http://orig06.deviantart.net/4250/f/2009/293/e/8/steampunk_goggles_10_by_ambassadormann.jpg
 
 ### Before 1950s
 
@@ -31,7 +31,7 @@
     - holographic recording of fictional experiences
     - including smell and touch
 
----?image=https://upload.wikimedia.org/wikipedia/commons/d/dc/Sensorama-morton-heilig-virtual-reality-headset.jpg&size=contain
+---?image=https://upload.wikimedia.org/wikipedia/commons/d/dc/Sensorama-morton-heilig-virtual-reality-headset.jpg
 
 ### 1950s
 
@@ -39,7 +39,7 @@
     - Morton Heilig
     - visuals, sound, vibration, and smell
 
----?image=http://www.3rockar.com/wp-content/uploads/2016/09/vhfrsword-of-damocles-jpg-1459515301-BYqc-column-width-inline.jpg&size=contain
+---?image=http://www.3rockar.com/wp-content/uploads/2016/09/vhfrsword-of-damocles-jpg-1459515301-BYqc-column-width-inline.jpg
 
 ### 1960s
 
@@ -47,7 +47,7 @@
     - Head Mounted Display
     - Ivan Sutherland & Bob Sproull
 
----?image=http://www.inventinginteractive.com/wp-content/uploads/2010/03/Aspen_armchair.jpg&size=contain
+---?image=http://www.inventinginteractive.com/wp-content/uploads/2010/03/Aspen_armchair.jpg
 
 ### 1970s
 
@@ -55,7 +55,7 @@
     - Building virtual copy of Aspen, Colorado
     - MIT
 
----?image=https://upload.wikimedia.org/wikipedia/commons/a/a8/VPL_DataSuit_1.jpg&size=contain
+---?image=https://upload.wikimedia.org/wikipedia/commons/a/a8/VPL_DataSuit_1.jpg
 
 ### 1980s
 
@@ -78,15 +78,15 @@
 
 - Big names for current HMDs
 
----?image=http://www.sciencefocus.com/sites/default/files/inline-images/4tCqlXc.jpg&size=contain
+---?image=http://www.sciencefocus.com/sites/default/files/inline-images/4tCqlXc.jpg
 
 ### NASA
 
----?image=https://www.vrlife.news/wp-content/uploads/2016/03/The-Military-Uses-VR-for-Training-4.jpg&size=contain
+---?image=https://www.vrlife.news/wp-content/uploads/2016/03/The-Military-Uses-VR-for-Training-4.jpg
 
 ### Military
 
----?image=https://www.sabre88.com/wp-content/uploads/2017/08/U.S.-Air-Force.jpg&size=contain
+---?image=https://www.sabre88.com/wp-content/uploads/2017/08/U.S.-Air-Force.jpg
 
 ### Flight Simulation
 

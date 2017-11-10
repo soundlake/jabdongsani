@@ -13,7 +13,7 @@
   - an electronic display/spectacles
   - overlays data onto real life
 
----?image=https://upload.wikimedia.org/wikipedia/commons/d/dc/Sensorama-morton-heilig-virtual-reality-headset.jpg&size=contain
+---?image=https://upload.wikimedia.org/wikipedia/commons/d/dc/Sensorama-morton-heilig-virtual-reality-headset.jpg
 
 ### 1950s
 
@@ -21,7 +21,7 @@
     - Morton Heilig
     - visuals, sound, vibration, and smell
 
----?image=http://www.3rockar.com/wp-content/uploads/2016/09/vhfrsword-of-damocles-jpg-1459515301-BYqc-column-width-inline.jpg&size=contain
+---?image=http://www.3rockar.com/wp-content/uploads/2016/09/vhfrsword-of-damocles-jpg-1459515301-BYqc-column-width-inline.jpg
 
 ### 1960s
 
@@ -29,7 +29,7 @@
     - Head Mounted Display
     - Ivan Sutherland & Bob Sproull
 
----?image=https://blog.swiss.com/wp-content/uploads/2017/04/Foto-11.01.17-17-25-47.jpg&size=contain
+---?image=https://blog.swiss.com/wp-content/uploads/2017/04/Foto-11.01.17-17-25-47.jpg
 
 ### 1980s
 
@@ -38,17 +38,17 @@
     - Gavan Lintern of the University of Illinois
     - for teaching real-world flight skills
 
----?image=https://upload.wikimedia.org/wikipedia/commons/4/43/Aimoneyetap.jpg&size=contain
+---?image=https://upload.wikimedia.org/wikipedia/commons/4/43/Aimoneyetap.jpg
 
 ### 1980s
 
 - EyeTap
 
----?image=https://i.imgur.com/0J1gLw0.gif&size=contain
+---?image=https://i.imgur.com/0J1gLw0.gif
 
 ### Dragon Ball?
 
----?image=http://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2017-06/et_061317_BradPittJimJefferies720.png&size=contain
+---?image=http://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2017-06/et_061317_BradPittJimJefferies720.png
 
 ### 1980s
 
@@ -58,7 +58,7 @@
 
 ### Current
 
----?image=https://s-i.huffpost.com/gen/4645186/images/o-POKEMON-GO-facebook.jpg&size=contain
+---?image=https://s-i.huffpost.com/gen/4645186/images/o-POKEMON-GO-facebook.jpg
 
 #### Pokemon Go
 

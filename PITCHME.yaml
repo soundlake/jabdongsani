@@ -1,3 +1,4 @@
-transition: none
+background-size : contain
 theme : night
 theme-override : assets/style.css
+transition: none
