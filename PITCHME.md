@@ -2,6 +2,12 @@
 
 # Virtual & Augmented Reality
 
+Note: 안녕하세요.
+
+발표를 맡은 안신열입니다.
+
+발표 시작하겠습니다.
+
 ---?include=contents/intro.md
 
 ---
