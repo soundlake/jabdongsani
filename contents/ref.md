@@ -37,6 +37,13 @@
 
 ## In Story
 
+- [Drawing in Perspective](http://drawingacademy.com/drawing-in-perspective)
+- [History of photography](https://en.wikipedia.org/wiki/History_of_photography)
+- [Wikipedia - Stereoscope](https://en.wikipedia.org/wiki/Stereoscope)
+- [Wikipedia - Magic Eye](https://en.wikipedia.org/wiki/Magic_Eye)
+- [Magic Eye](http://www.magiceye.com/)
+- [In The World of 3D Technology](http://fashion.bodi.me/the-world-of-3d-technology/)
+- Ghost in the Shell (1995)
 - The Matrix (1999)
 
 --
