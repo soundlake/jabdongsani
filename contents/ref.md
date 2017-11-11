@@ -9,6 +9,7 @@
 - [Wikipedia - Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland)
 - [Wikipedia - Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality)
 - [Wikipedia - VPL Research](https://en.wikipedia.org/wiki/VPL_Research)
+- ["Pygmalion's Spectacles," Probably the First Comprehensive and Specific Fictional Model for Virtual Reality](http://www.historyofinformation.com/expanded.php?id=4543)
 - [SlideShare - In the Pocket Academy](https://www.slideshare.net/ITPocket/in-the-pocket-academy-vr-the-past-present-future-of-vr)
 - [A History of Virtual Reality](https://sebastianmuriel.com/2017/02/10/a-history-of-virtual-reality/)
 - [Who Actually Invented The Wheel?](http://mentalfloss.com/article/62357/who-actually-invented-wheel)

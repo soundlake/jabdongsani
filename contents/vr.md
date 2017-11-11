@@ -12,7 +12,7 @@ Note: 먼저, 수박 겉핥는 역사입니다.
 
 ### Before 1950s
 
----?image=https://sebastianmuriel.files.wordpress.com/2017/02/fullsizerender-4.jpg
+---?image=http://www.sffaudio.com/images12/PygmallionsSpectacles565.png
 
 #### "Pygmalion's Spectacles"
 
