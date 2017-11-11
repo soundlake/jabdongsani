@@ -182,6 +182,8 @@ VPL 리서치는 다양한 기기들을 개발합니다.
 
 ##### EyePhone
 
+[!EyePhone](https://i.amz.mshcdn.com%2FauQDd-I-BKnVdiXWK7r53vtDA_g%3D%2Ffit-in%2F1200x9600%2F2014%2F04%2F14%2F03%2FEyephoneVPL.99ebb.jpg)
+
 Note: 아이폰이라는 이름은 여기서 사용되었군요.
 
 개념은 페이스북이 최근 발표한 스페이스와도 비슷합니다.
